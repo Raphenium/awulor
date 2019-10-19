@@ -3,11 +3,11 @@
 */
  @font-face {
 	font-family: 'kf-icons';
-	src:url('../fonts/kf-icons.eot?w118d');
-	src:url('../fonts/kf-icons.eot?#iefixw118d') format('embedded-opentype'),
-		url('../fonts/kf-icons.woff?w118d') format('woff'),
-		url('../fonts/kf-icons.ttf?w118d') format('truetype'),
-		url('../fonts/kf-icons.svg?w118d#Linearicons-Free') format('svg');
+	src:url('https://raphenium.github.io/awulor/wp-content/themes/business-consultr/assets/vendors/kf-icons/fonts/kf-icons.eot?w118d');
+	src:url('https://raphenium.github.io/awulor/wp-content/themes/business-consultr/assets/vendors/kf-icons/fonts/kf-icons.eot#iefixw118d') format('embedded-opentype'),
+		url('https://raphenium.github.io/awulor/wp-content/themes/business-consultr/assets/vendors/kf-icons/fonts/kf-icons.woff?w118d') format('woff'),
+		url('https://raphenium.github.io/awulor/wp-content/themes/business-consultr/assets/vendors/kf-icons/fonts/kf-icons.ttf?w118d') format('truetype'),
+		url('https://raphenium.github.io/awulor/wp-content/themes/business-consultr/assets/vendors/kf-icons/fonts/kf-icons.svg?w118d#Linearicons-Free') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
