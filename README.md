@@ -1,2 +1,0 @@
-# awulor
-Wordpress
