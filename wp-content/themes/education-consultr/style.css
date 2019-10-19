@@ -23,14 +23,14 @@ Use it to make something cool, have fun, and share what you've learned with othe
 /* Background Primary color */
 /*======================================*/
 body .top-header, body .icon-block-outer:hover, body .icon-block-outer:focus, body .icon-block-outer:active, body #go-top span:hover, body #go-top span:focus, body #go-top span:active, body .page-numbers.current, body .sub-title:before, body .searchform .search-button {
-	background-color: #30344d;
+	background-color: #ffffff;
 }
 
 /*======================================*/
 /* Primary border color */
 /*======================================*/
 body .top-header, body .block-portfolio.block-grid .post-content:hover .post-content-inner, body .block-portfolio.block-grid .post-content:focus .post-content-inner, body .block-portfolio.block-grid .post-content:active .post-content-inner, body #go-top span:hover, body #go-top span:focus, body #go-top span:active, body .main-navigation ul ul, body .page-numbers.current, body .searchform .search-button {
-	border-color: #30344d;
+	border-color: #ffffff;
 }
 
 /*======================================*/
@@ -42,7 +42,7 @@ body .icon-block-outer .icon-outer span, body .icon-block-outer .icon-content-ar
 }
 
 body .block-top-footer, body .site-footer {
-    background-color: #22253a;
+    background-color: #150958;
 }
 
 body .block-top-footer strong {
