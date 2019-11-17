@@ -107,7 +107,7 @@
 		endif;
 		?>
 		<header id="masthead" class="wrapper site-header" role="banner">
-			<div class="container-fluid">
+			<div class="container-fluid" style="margin-left: 58px;">
 				<div class="row">
 					<div class="col-xs-6 col-sm-8 col-md-12">
 						<?php get_template_part( 'template-parts/header/site', 'branding' ); ?>

@@ -4944,7 +4944,7 @@ body .widget li.recentcomments a {
   width: 80%;
 }
 .widget.widget_categories .children, .widget.widget_nav_menu .sub-menu, .widget.widget_pages .children {
-  margin: 0 10px 10px;
+  margin: 0px 10px 10px;
   padding-left: 10px;
 }
 .widget.widget_recent_entries .post-date, .widget.widget_rss .rss-date, .widget.widget_rss cite {
