@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Another new demo	</title>
+	<atom:link href="https://raphenium.github.io/awulor/2019/11/24/another-new-demo/feed/" rel="self" type="application/rss+xml" />
+	<link>https://raphenium.github.io/awulor/2019/11/24/another-new-demo/</link>
+	<description></description>
+	<lastBuildDate>Sun, 24 Nov 2019 15:15:41 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.4</generator>
+			<item>
+				<title>
+				By: work				</title>
+				<link>https://raphenium.github.io/awulor/2019/11/24/another-new-demo/comment-page-1/#comment-7</link>
+		<dc:creator><![CDATA[work]]></dc:creator>
+		<pubDate>Sun, 24 Nov 2019 15:14:14 +0000</pubDate>
+		<guid isPermaLink="false">https://raphenium.github.io/awulor/?p=199#comment-7</guid>
+					<description><![CDATA[Okay, this is nice]]></description>
+		<content:encoded><![CDATA[<p>Okay, this is nice</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>new</title>
+	<atom:link href="https://raphenium.github.io/awulor/category/new/feed/" rel="self" type="application/rss+xml" />
+	<link>https://raphenium.github.io/awulor</link>
+	<description></description>
+	<lastBuildDate>Sun, 24 Nov 2019 16:01:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.4</generator>
+
+<image>
+	<url>https://raphenium.github.io/awulor/wp-content/uploads/2019/10/cropped-WhatsApp-Image-2019-10-25-at-6.11.56-AM-1-3-3-32x32.jpeg</url>
+	<title>new</title>
+	<link>https://raphenium.github.io/awulor</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>New Test</title>
+		<link>https://raphenium.github.io/awulor/2019/11/24/new-test/</link>
+				<comments>https://raphenium.github.io/awulor/2019/11/24/new-test/#respond</comments>
+				<pubDate>Sun, 24 Nov 2019 14:50:41 +0000</pubDate>
+		<dc:creator><![CDATA[work]]></dc:creator>
+				<category><![CDATA[new]]></category>
+
+		<guid isPermaLink="false">https://raphenium.github.io/awulor/?p=191</guid>
+				<description><![CDATA[This is a demo APPLICATION FOR THE POSITION OF A GRADUATE ENGINEER With great willingness, I am applying for the position of a Programming Training Specialist in your reputable company. I believe that my education, skill-set (JAVA, PHP, Laravel, Python, Bootstrap, NodeJS, AngularJS, AJAX, JQuery, HTML, CSS and WordPress) and experience (IT Instructor and other roles in the IT sector) will make me an eligible candidate for this role. I am a graduate of Federal [&#8230;]]]></description>
+						<wfw:commentRss>https://raphenium.github.io/awulor/2019/11/24/new-test/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>
